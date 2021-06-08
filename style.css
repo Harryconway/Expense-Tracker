@@ -1,0 +1,18 @@
+.container,
+.h1,
+.h3 {
+  display: grid;
+  justify-content: center;
+  padding: 10px;
+  font-weight: bold;
+}
+.h3 {
+  color: rgb(18, 162, 18);
+}
+#list {
+  font-weight: 300;
+}
+.table {
+  display: grid;
+  justify-content: center;
+}

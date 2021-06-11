@@ -16,3 +16,6 @@
   display: grid;
   justify-content: center;
 }
+td {
+  background-color: rgb(230, 214, 214);
+}
